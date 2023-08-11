@@ -1,3 +1,3 @@
-# PowershellUsefulScripts
+# VariousUsefulScripts
 
-A collection of powershell scripts for various utsi that I implemented during my working days and not that could still be useful for solving small problems.
+A collection of powershell, python and other languages scripts for various case of use that I write during my working days and not that could still be useful for solving small problems.
